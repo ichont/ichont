@@ -10,7 +10,7 @@
 ### 🔥 About Me  
 - 📍 Currently pursuing a bachelor's degree at **Dalian Maritime University**
 - 🚀 Has conducted research on **AI4SE and AI4EDA**
-- 🚀 Research directions include **AI4SEC, AI4SCI, MLLM, and AIGC generation and detection**
+- 🚀 Research directions include **AI4SEC, World Model, MLLM, and AIGC generation and detection**
 - 🚀 Now I am focusing on **algorithm optimization of LLMs**
 - 🌱 Researcher in the field of **AI**
 
