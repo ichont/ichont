@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Weihao Sun! ![](https://komarev.com/ghpvc/?username=ichont&style=flat-square)
 
 
-🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence | TSMC Group**
+🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
 
-🎓 **XJTU(Xi'an Jiaotong University) | School of  Cyber Science and Engineer | An intern**
+🎓 **XJTU(Xi'an Jiaotong University) | School of  Cyber Science and Engineer**
 
-🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security | AILab Joint Training**
+🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security**
 
 ### 🔥 About Me  
 - 📍 Currently pursuing a bachelor's degree at **Dalian Maritime University**
