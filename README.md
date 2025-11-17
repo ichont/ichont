@@ -26,6 +26,6 @@
 
 ### 🔗  Resource Links
 
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) is the leading software for creating deepfakes.
+- Surprise is coming soon
 
 ✨ **Let's study together and work together for the development of AI**.🚀🚀🚀
