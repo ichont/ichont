@@ -3,7 +3,7 @@
 
 🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
 
-🎓 **XJTU(Xi'an Jiaotong University) | School of  Cyber Science and Engineer**
+🎓 **XJTU(Xi'an Jiaotong University) | An intern**
 
 🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security**
 
