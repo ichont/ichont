@@ -19,7 +19,7 @@
   <!-- NLP | 改为统一紫色，减少突兀性 -->
   <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
 
-  <!-- Graph Learning | 轻调和蓝色，与 Python 呼应 -->
+  <!-- Graph ANALYSIS | 轻调和蓝色，与 Python 呼应 -->
   <img src="https://img.shields.io/badge/Graph%20Analytics-3A77D4?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
   <!-- Web Design | 从亮粉改为深紫粉，与 Agent/LLM 配色协调 -->
