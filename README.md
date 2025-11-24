@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
 <!-- Web Design | 从亮粉改为深紫粉，与 Agent/LLM 配色协调 -->
 <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
-
+</p>
 
 🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
 
