@@ -22,9 +22,6 @@
   <!-- Graph ANALYSIS | 轻调和蓝色，与 Python 呼应 -->
   <img src="https://img.shields.io/badge/Graph%20Analytics-3A77D4?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
-  <!-- Web Design | 从亮粉改为深紫粉，与 Agent/LLM 配色协调 -->
-  <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
-
 </p>
 
 🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
