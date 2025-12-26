@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Weihao Sun! ![](https://komarev.com/ghpvc/?username=ichont&style=flat-square)
+## 👋 Hi, I'm Will Sun! ![](https://komarev.com/ghpvc/?username=ichont&style=flat-square)
 
 <p align="left"> 
   <!-- Python | 深蓝，和整体科技蓝风格协调 -->
