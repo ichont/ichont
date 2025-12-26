@@ -26,26 +26,24 @@
 
 🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
 
-🎓 **XJTU(Xi'an Jiaotong University) | An intern**
-
 🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security**
 
 ### 🔥 About Me  
 - 📍 This is my [Homepage](https://ichont.github.io)
-- 🚀 Has conducted research on **AI4SE and AI4EDA**
-- 🚀 Research directions include **AI4SEC, World Model, MLLM, and AIGC generation and detection**
-- 🚀 Now I am focusing on **algorithm optimization of LLMs**
 - 🌱 Researcher in the field of **AI**
+- 🚀 My research directions include **AI4SEC, MLLMs, Deepfake and AIGC**
+- 🚀 Now I am focusing on **algorithm optimization of LLMs**
+
 
 ---
 
 ### 📬 Contact Me
 📧 My commonly used email: sunweihao@dlmu.edu.cn  whsun27@ustc.edu.cn  1497081944@qq.com
 
-🔗 Gitee: [Will-Son (ichont)](https://gitee.com/ichont)
-🔗 Huggingface:[Ichont ](https://huggingface.co/Ichont)
-🔗 CSDN: [ichont-CSDN](https://blog.csdn.net/ichont?type=edu)
-🔗 Zhihu:[ ichont](https://www.zhihu.com/people/ichont)
+🔗 [[Gitee](https://gitee.com/ichont)]
+🔗 [[Huggingface](https://huggingface.co/Ichont)]
+🔗 [[CSDN](https://blog.csdn.net/ichont?type=edu)]
+🔗 [[Zhihu](https://www.zhihu.com/people/ichont)]
 
 ### 🔗  Resource Links
 
