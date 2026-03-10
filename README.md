@@ -31,8 +31,7 @@
 ### 🔥 About Me  
 - 📍 This is my [Homepage](https://ichont.github.io)
 - 🌱 Researcher in the field of **AI**
-- 🚀 My research directions include **AI4SEC, MLLMs, Deepfake and AIGC**
-- 🚀 Now I am focusing on **algorithm optimization of LLMs**
+- 🚀 My research directions include **AI4SEC, MLLM, Agent, and AIGC**
 
 
 ---
