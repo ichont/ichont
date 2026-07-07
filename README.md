@@ -33,7 +33,7 @@
 ---
 
 ### 📬 Contact Me
-📧 My commonly used email: sunweihao@mail.ustc.edu.cn 1497081944@qq.com weihaosun@gmail.com
+📧 My commonly used email: sunweihao@mail.ustc.edu.cn weihaosun@gmail.com
 
 🔗 [[Gitee](https://gitee.com/ichont)]
 🔗 [[Huggingface](https://huggingface.co/Ichont)]
