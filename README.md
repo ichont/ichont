@@ -33,7 +33,7 @@
 ---
 
 ### 📬 Contact Me
-📧 My commonly used email: sunweihao@dlmu.edu.cn   1497081944@qq.com
+📧 My commonly used email: sunweihao@mail.ustc.edu.cn   1497081944@qq.com
 
 🔗 [[Gitee](https://gitee.com/ichont)]
 🔗 [[Huggingface](https://huggingface.co/Ichont)]
