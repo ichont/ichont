@@ -24,10 +24,6 @@
 
 </p>
 
-🎓 **DLMU(Dalian Maritime University) | Dalian Key Laboratory of Artificial Intelligence**
-
-🎓 **USTC(University of Science and Technology of China) | National Key Laboratory of Cyber Security**
-
 ### 🔥 About Me  
 - 📍 This is my [Homepage](https://ichont.github.io)
 - 🌱 Researcher in the field of **AI**
