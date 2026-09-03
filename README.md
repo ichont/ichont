@@ -27,7 +27,7 @@
 ### 🔥 About Me  
 - 📍 This is my [Homepage](https://ichont.github.io)
 - 🌱 Researcher and developer in the field of **AI**
-- 🚀 My research directions include **AI Security, MLLM, Agent, and AIGC**
+- 🚀 My research directions include **AI Security, Agent,Model Safety, and AIGC**
 
 
 ---
